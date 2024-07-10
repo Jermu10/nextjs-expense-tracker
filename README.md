@@ -1,7 +1,8 @@
 Expense tracker app with Nextjs, Prisma, Neon and Clerk.
 
-npm i
-npm run dev
+- npm i
+- npm run dev
+- --> http://localhost:3000
 
 .env file
 
